@@ -1,5 +1,3 @@
-package com.privasia.mtos.common.search;
-
 import java.util.Date;
 import java.util.List;
 
